@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asp_net_Postgres_Docker.props" />
+</Project>

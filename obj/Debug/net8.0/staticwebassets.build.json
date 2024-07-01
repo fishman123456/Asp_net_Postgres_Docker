@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bUIws+WkteEeHKLDRowpR7lMg9Z3/RUtDwxffvnFkDs=",
+  "Source": "Asp_net_Postgres_Docker",
+  "BasePath": "_content/Asp_net_Postgres_Docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
